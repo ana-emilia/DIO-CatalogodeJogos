@@ -1,0 +1,5 @@
+C:\Users\anaem\CatalogoJogosDio\obj\Debug\net5.0\CatalogoJogosDio.csproj.AssemblyReference.cache
+C:\Users\anaem\CatalogoJogosDio\obj\Debug\net5.0\CatalogoJogosDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaem\CatalogoJogosDio\obj\Debug\net5.0\CatalogoJogosDio.AssemblyInfoInputs.cache
+C:\Users\anaem\CatalogoJogosDio\obj\Debug\net5.0\CatalogoJogosDio.AssemblyInfo.cs
+C:\Users\anaem\CatalogoJogosDio\obj\Debug\net5.0\CatalogoJogosDio.csproj.CoreCompileInputs.cache
